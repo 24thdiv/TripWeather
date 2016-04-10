@@ -1,6 +1,6 @@
 # Trip Weather
 
-Application which provide Weather Details for next 10 Days to plan you Trip.
+Application which provide Weather Details for next 10 Days to plan your Trip.
 
 Delplyed on IBM BlueMix.
 
